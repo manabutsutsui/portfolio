@@ -9,7 +9,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
             <Link href="/" className="text-2xl font-bold text-gray-900 dark:text-white">
-              MANABU'S PORTFOLIO
+              MANABU&apos;S PORTFOLIO
             </Link>
           </div>
         </div>
