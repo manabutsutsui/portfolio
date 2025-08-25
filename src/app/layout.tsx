@@ -13,13 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ポートフォリオ | 開発者名",
-  description: "Webアプリケーション開発者のポートフォリオサイト。これまでに開発したプロジェクトやスキルをご紹介します。",
-  keywords: ["ポートフォリオ", "Web開発", "React", "Next.js", "TypeScript"],
-  authors: [{ name: "開発者名" }],
+  title: "ポートフォリオ | MANABU TSUTSUI",
+  description: "モバイルアプリケーション開発者のポートフォリオサイト。これまでに開発したプロジェクトやスキルをご紹介します。",
+  keywords: ["ポートフォリオ", "モバイルアプリ", "Flutter", "Dart"],
+  authors: [{ name: "MANABU TSUTSUI" }],
   openGraph: {
-    title: "ポートフォリオ | 開発者名",
-    description: "Webアプリケーション開発者のポートフォリオサイト",
+    title: "ポートフォリオ | MANABU TSUTSUI",
+    description: "モバイルアプリケーション開発者のポートフォリオサイト",
     type: "website",
   },
 };
